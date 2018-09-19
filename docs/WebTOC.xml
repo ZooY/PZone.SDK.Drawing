@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e5d8a513-37ff-492b-91d9-e29970476899" Title="Пространства имен" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="38ad712f-9773-4778-bc82-f232e6e34dc0" Title="PZone.Drawing" Url="html/N_PZone_Drawing.htm">
+      <HelpTOCNode Id="272fd781-3265-430b-8f66-1946a99f8ab4" Title="ImageExtensions - класс" Url="html/T_PZone_Drawing_ImageExtensions.htm">
+        <HelpTOCNode Id="f4bdb88f-15bf-4673-9dfd-a2d29e9e1c2b" Title="ImageExtensions - методы" Url="html/Methods_T_PZone_Drawing_ImageExtensions.htm">
+          <HelpTOCNode Title="ToBase64 - метод" Url="html/M_PZone_Drawing_ImageExtensions_ToBase64.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c442a3c1-162e-4b28-9127-fd5b58604035" Title="ImageResizer - класс" Url="html/T_PZone_Drawing_ImageResizer.htm">
+        <HelpTOCNode Title="ImageResizer - конструктор" Url="html/M_PZone_Drawing_ImageResizer__ctor.htm" />
+        <HelpTOCNode Id="0eed796d-17bb-46bb-906a-2202d4763814" Title="ImageResizer - методы" Url="html/Methods_T_PZone_Drawing_ImageResizer.htm">
+          <HelpTOCNode Id="0a8ea89c-7430-423f-9ae9-521ccf21c674" Title="Resize - метод" Url="html/Overload_PZone_Drawing_ImageResizer_Resize.htm">
+            <HelpTOCNode Title="Resize(String, Int32, Int32) - метод" Url="html/M_PZone_Drawing_ImageResizer_Resize.htm" />
+            <HelpTOCNode Title="Resize(String, String, Int32, Int32) - метод" Url="html/M_PZone_Drawing_ImageResizer_Resize_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="a8378d78-1522-4f0d-a233-86f5f01318d6" Title="ResizeFile - метод" Url="html/Overload_PZone_Drawing_ImageResizer_ResizeFile.htm">
+            <HelpTOCNode Title="ResizeFile(String, Int32, Int32) - метод" Url="html/M_PZone_Drawing_ImageResizer_ResizeFile.htm" />
+            <HelpTOCNode Title="ResizeFile(String, String, Int32, Int32) - метод" Url="html/M_PZone_Drawing_ImageResizer_ResizeFile_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

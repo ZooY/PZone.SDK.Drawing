@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ImageExtensions - класс">
+    <HelpKINode Title="ImageExtensions - класс" Url="html/T_PZone_Drawing_ImageExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_PZone_Drawing_ImageExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageExtensions.ToBase64 метод" Url="html/M_PZone_Drawing_ImageExtensions_ToBase64.htm" />
+  <HelpKINode Title="ImageResizer - класс">
+    <HelpKINode Title="ImageResizer - класс" Url="html/T_PZone_Drawing_ImageResizer.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_PZone_Drawing_ImageResizer__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_PZone_Drawing_ImageResizer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageResizer.ImageResizer конструктор" Url="html/M_PZone_Drawing_ImageResizer__ctor.htm" />
+  <HelpKINode Title="ImageResizer.Resize метод" Url="html/Overload_PZone_Drawing_ImageResizer_Resize.htm" />
+  <HelpKINode Title="ImageResizer.ResizeFile метод" Url="html/Overload_PZone_Drawing_ImageResizer_ResizeFile.htm" />
+  <HelpKINode Title="PZone.Drawing - пространство имён" Url="html/N_PZone_Drawing.htm" />
+  <HelpKINode Title="PZone.Drawing.ImageExtensions - класс" Url="html/T_PZone_Drawing_ImageExtensions.htm" />
+  <HelpKINode Title="PZone.Drawing.ImageResizer - класс" Url="html/T_PZone_Drawing_ImageResizer.htm" />
+  <HelpKINode Title="Resize метод" Url="html/Overload_PZone_Drawing_ImageResizer_Resize.htm" />
+  <HelpKINode Title="ResizeFile метод" Url="html/Overload_PZone_Drawing_ImageResizer_ResizeFile.htm" />
+  <HelpKINode Title="ToBase64 метод" Url="html/M_PZone_Drawing_ImageExtensions_ToBase64.htm" />
+</HelpKI>
